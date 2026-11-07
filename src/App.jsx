@@ -1,10 +1,10 @@
-import './app.scss';
-import Form from './Form.jsx';
+import "./app.scss";
+import CustomForm from "./Form.jsx";
 
 function App() {
   return (
     <div className="app">
-        <Form/>
+      <CustomForm />
     </div>
   );
 }
